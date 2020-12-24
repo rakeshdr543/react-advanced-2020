@@ -1,5 +1,6 @@
 import React from 'react'
-import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example'
+import Setup from './tutorial/10-prop-types/setup/Product'
+import Final from './tutorial/10-prop-types/final/Product'
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className='container'>
       <h2>Advanced Tutorial</h2>
      <Setup />
+     <Final />
 
 
     </div>

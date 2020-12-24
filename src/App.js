@@ -1,6 +1,6 @@
 import React from 'react'
-import Final from './tutorial/6-useReducer/final'
-import Setup from './tutorial/6-useReducer/setup'
+import Final from './tutorial/8-useContext/final/1-context-api'
+import Setup from './tutorial/8-useContext/setup/1-context-api'
 
 
 function App() {
